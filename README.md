@@ -1,6 +1,6 @@
 ## Clone o repositório:
 ```sh
-git clone https://github.com/Kurumi30/
+git clone https://github.com/Kurumi30/insert-sql-js.git
 ```
 
 ## Uso
