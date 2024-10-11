@@ -1,0 +1,11 @@
+{
+  "name": "inserindo-queries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Kurumi30",
+  "license": "MIT",
+  "description": ""
+}
