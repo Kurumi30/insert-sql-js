@@ -16,3 +16,6 @@ Execute o comando:
 ```sh
 npm start
 ```
+
+> [!important]
+Todos os dados do arquivo `pessoas.json` são dados mockados, ou seja, são dados criados para fins de teste e desenvolvimento!
