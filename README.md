@@ -22,4 +22,5 @@ npm start
 ```
 
 > [!important]
-Todos os dados do arquivo `pessoas.json` são dados mockados, ou seja, são dados criados para fins de teste e desenvolvimento!
+Todos os dados do arquivo `pessoas.json` são dados mockados, ou seja, são dados criados para fins de teste e desenvolvimento! <br>
+Fonte dos dados: https://www.4devs.com.br/gerador_de_pessoas
