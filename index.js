@@ -43,7 +43,7 @@ const init = () => {
       email,
       cep,
       endereco,
-      celular: telefone
+      celular
     } = user
 
     return generateInsertUserQuery({
@@ -52,7 +52,7 @@ const init = () => {
       email,
       cep,
       endereco,
-      telefone
+      telefone: celular
     })
   })
 
