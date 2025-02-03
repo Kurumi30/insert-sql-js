@@ -39,20 +39,14 @@ const init = () => {
   const queries = users.map(user => {
     const {
       data_nasc,
-      nome,
-      email,
-      cep,
-      endereco,
-      celular
+      celular,
+      ...rest,
     } = user
 
     return generateInsertUserQuery({
       data_nasc: handleDate(data_nasc),
-      nome,
-      email,
-      cep,
-      endereco,
-      telefone: celular
+      telefone: celular,
+      ...rest,
     })
   })
 
